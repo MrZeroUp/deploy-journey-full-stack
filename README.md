@@ -18,7 +18,6 @@ The main goal is to replicate Spotify's core functionality, allowing users to br
         BackEnd:
           <ul>
             <li> JavaScript </li>
-            <li> Node.Js </li>
             <li> Mongo.DB </li>
             <li> Biblioteca MongoDB para Node.js </li>
             <li> Node.js </li>
