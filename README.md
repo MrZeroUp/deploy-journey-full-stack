@@ -3,6 +3,8 @@
 
 # About the Project
 
+https://deploy-journey-full-stack.onrender.com/
+
 A Spotify-inspired music player with smooth streaming and an intuitive interface."
 organized by: [hashtagtreinamentos](https://dlp.hashtagtreinamentos.com/full-stack/jornada/blog?aula=1&tr=b).
 
