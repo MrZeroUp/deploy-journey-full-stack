@@ -10,6 +10,12 @@ organized by: [hashtagtreinamentos](https://dlp.hashtagtreinamentos.com/full-sta
 
 The main goal is to replicate Spotify's core functionality, allowing users to browse songs and enjoy a good music experience.
 
+## Layout Mobile e Web
+<div align="center">
+  <a href="https://imgbox.com/sBCZlfxg" target="_blank"><img src="https://thumbs2.imgbox.com/05/68/sBCZlfxg_t.png" alt="image host"/></a> 
+  <a href="https://imgbox.com/4LXk1sfi" target="_blank"><img src="https://thumbs2.imgbox.com/8b/c3/4LXk1sfi_t.png" alt="image host"/></a>
+</div>
+
 
 ## Dependencies
 
